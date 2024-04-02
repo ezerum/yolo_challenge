@@ -1,0 +1,12 @@
+train: ../train/images
+val: ../valid/images
+
+nc: 1
+names: ['mate bag']
+
+roboflow:
+  workspace: imageaugmentation
+  project: yerba-taragui-500g
+  version: 3
+  license: MIT
+  url: https://universe.roboflow.com/imageaugmentation/yerba-taragui-500g/dataset/3
