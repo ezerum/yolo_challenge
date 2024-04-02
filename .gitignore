@@ -175,6 +175,7 @@ poetry.toml
 pyrightconfig.json
 
 # Data
+runs/
 
 
 

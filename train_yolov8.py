@@ -13,10 +13,10 @@ def main():
                 os.getcwd(),
                 "dataset/Yerba_taragui",
                 "data.yaml",
-            ),  # Merged_Dataset/Augmented_Dataset - "Gestion_de_filas_4_camaras_v1i_yolov8",
-            cfg="cfgs/cfg_y8s.yaml",
-            project="Producto",  # Gestion_fila_Yolov8m_4_cam - Gestion_fila_Yolov8n_4_cam -CF_Pilar_tracking_Yolov8m_11_cam
-            name="Yerba_Taragui",  # Yolov8m_ - Yolov8n_
+            ),  
+            cfg="cfgs/cfg_yolov8.yaml",
+            project="Producto",  
+            name="Yerba_Taragui", 
         )
 
 

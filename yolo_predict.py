@@ -3,7 +3,7 @@ import os
 import cv2
 
 model = YOLO(
-            "trained/yerba_v2.pt"
+            "trained/yerba_v3.pt"
         ) 
 
 # Create VideoCapture object
