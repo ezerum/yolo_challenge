@@ -27,4 +27,4 @@ _Matrix de confusión_
 ![YOLOv9 Benchmark](Producto/Yerba_Taragui5/confusion_matrix_normalized.png)
 
 ## Etapa de Test
-_Para la etapa de test se utilizo un archivo de video ubicado en run/detect/predict3_
+_Para la etapa de test se utilizo un archivo de video ubicado en run/detect/predict2_
