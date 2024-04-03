@@ -1,5 +1,5 @@
 # Challenge Go2future
-_Se armo un dataset de imágenes sintéticas a partir de un modelo 3D (archivo .glb), el cual fue cargado utilizando la herramienta Blender v4.1. En esta herramienta se realizo la modificacion del background y se aplico rotaciones. Luego se cargaron estas imágenes en roboflow para realizar las anotaciones de forma automatica y crear la base de datos._ 
+_Se armo un dataset de imágenes sintéticas a partir de un modelo 3D (archivo .glb), el cual fue cargado utilizando la herramienta Blender v4.1. En esta herramienta se realizo la modificacion del background y se aplico rotaciones. Luego se cargaron estas imágenes en roboflow para realizar las anotaciones de forma automática y crear la base de datos._ 
 ## Detalles del dataset
 _ Total de Imágenes: 386_
 _ Dataset Split: Trainn set, 355 imágenes; valid set, 31 imágenes y test set, 0 imágenes._
