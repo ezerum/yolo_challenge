@@ -22,3 +22,6 @@ _Ejemplo de imágen usada en la etapa de Valid_
 
 _Resultados de metricas empleadas_
 ![YOLOv9 Benchmark](Producto/Yerba_Taragui5/results.png)
+
+_Matrix de confusión_
+![YOLOv9 Benchmark](Producto/Yerba_Taragui5/results.png)
