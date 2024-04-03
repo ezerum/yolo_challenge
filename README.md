@@ -24,4 +24,4 @@ _Resultados de metricas empleadas_
 ![YOLOv9 Benchmark](Producto/Yerba_Taragui5/results.png)
 
 _Matrix de confusión_
-![YOLOv9 Benchmark](Producto/Yerba_Taragui5/results.png)
+![YOLOv9 Benchmark](Producto/Yerba_Taragui5/confusion_matrix_normalized.png)
