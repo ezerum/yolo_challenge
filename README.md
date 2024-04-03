@@ -13,4 +13,7 @@ _En la etapa de entrenamiento y test se utilizó el modelo Yolov8 de ultralytics
 
 _Nota: Seria recomendable para mejorar este tipo de aplicación, utilizar una base de datos en espacio vectorial que permita organizar los datos en función de las similitudes (por ejemplo, Chroma)._
 
-![YOLOv9 Benchmark](Producto/Yerba_Taragui5/results.png)
+## Resultados obtenidos
+_Ejemplo de imágen usada en la etapa de Train_
+![YOLOv9 Benchmark](Producto/Yerba_Taragui5/train_batch1.jpg)
+
