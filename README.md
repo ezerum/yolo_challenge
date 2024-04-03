@@ -18,5 +18,7 @@ _Ejemplo de imágen usada en la etapa de Train_
 ![YOLOv9 Benchmark](Producto/Yerba_Taragui5/train_batch1.jpg)
 
 _Ejemplo de imágen usada en la etapa de Valid_
+![YOLOv9 Benchmark](Producto/Yerba_Taragui5/val_batch1_pred.jpg)
+
 
 ![YOLOv9 Benchmark](Producto/Yerba_Taragui5/train_batch1.jpg)
