@@ -17,3 +17,6 @@ _Nota: Seria recomendable para mejorar este tipo de aplicación, utilizar una ba
 _Ejemplo de imágen usada en la etapa de Train_
 ![YOLOv9 Benchmark](Producto/Yerba_Taragui5/train_batch1.jpg)
 
+_Ejemplo de imágen usada en la etapa de Valid_
+
+![YOLOv9 Benchmark](Producto/Yerba_Taragui5/train_batch1.jpg)
