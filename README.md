@@ -27,8 +27,7 @@ _Matrix de confusión_
 ![YOLOv9 Benchmark](Producto/Yerba_Taragui5/confusion_matrix_normalized.png)
 
 ## Etapa de test 
-_Para la etapa de test se utilizo un archivo de video ubicado en video_
-_Luego en run/detect/predict2 esta el archivo anotado con las inferencias del modelo._
+_Para la etapa de test se utilizo un archivo de video ubicado en video. Luego en run/detect/predict2 esta el archivo anotado con las inferencias del modelo._
 
 ## Entrenamiento con TAO Toolkit
 _Lamentablemente no fue posible utilizar para la etapa de entrenamiento, validación y test la herramienta de Nvidia TAO Toolkit, especificamente el modelo Retail Object Detection (basado en EfficientDet-D5), debido a las prestaciones de hardware del sistema local. Nos tante esta herramienta tiene alguas limitaciones en función de las características del dataset de imágenes sinteticas empleadas, como son número de imágenes necesarias, objetos muy pequeños, objetos ocluidos, imágenes deformadas y borrosas y fondos ruidosos. Por lo que se necesitaria para poder emplear este modelo pre-entrenado, conformar un dataset (Preferiblemente un dataset de espacio vectorial) con un mayor número de imágenes sintéticas y que estas cumplan con los requerimientos mínimos para poder utilizar el modelo._  
